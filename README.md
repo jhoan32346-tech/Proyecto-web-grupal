@@ -54,4 +54,4 @@ Se implementó un flujo básico de automatización utilizando GitHub Actions, co
 * Mantener un control básico sobre las integraciones.
 
 ## 🔗 Repositorio
-📎 Link del repositorio GitHub: (Agregar enlace aquí)
+📎 Link del repositorio GitHub: [https://github.com/Gabriela-M26/Proyecto-web-grupal.git)](https://github.com/Gabriela-M26/Proyecto-web-grupal.git)
