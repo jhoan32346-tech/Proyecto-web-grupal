@@ -1,0 +1,16 @@
+Proyecto colaborativo
+
+Grupo 3
+
+Aporte individual: Noelia
+
+Actividades realizadas:
+
+- Cloné el repositorio
+- Creé mi propia rama
+- Realicé cambios en el proyecto
+- Hice commit de los cambios
+- Subí los cambios (push)
+- Creé un Pull Request
+- Mi trabajo fue revisado por un compañero
+- Se integraron los cambios al proyecto principal
